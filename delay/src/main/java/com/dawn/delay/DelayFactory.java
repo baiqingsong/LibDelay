@@ -39,7 +39,7 @@ public class DelayFactory {
     };
 
     private int cycleTime = 15000;//循环时间
-    private String requestUrl = "http://www.baidu.com";//请求地址
+    private String requestUrl = "www.baidu.com";//请求地址
 
     /**
      * 循环查询网络延迟和信号强度
